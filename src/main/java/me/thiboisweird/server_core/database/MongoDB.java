@@ -14,7 +14,7 @@ import static org.bson.codecs.configuration.CodecRegistries.fromProviders;
 import static org.bson.codecs.configuration.CodecRegistries.fromRegistries;
 
 public class MongoDB {
-    ConnectionString connectionString = new ConnectionString("mongodb+srv://admin:fbC3F0BtnQw7bihp@cluster0.z3uip.mongodb.net/test");
+    ConnectionString connectionString = new ConnectionString("test");
     CodecRegistry pojoCodecRegistry = fromProviders(PojoCodecProvider.builder().automatic(true).build());
     CodecRegistry codecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(), pojoCodecRegistry);
 
