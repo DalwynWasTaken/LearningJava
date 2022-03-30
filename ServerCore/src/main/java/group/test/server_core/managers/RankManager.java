@@ -1,4 +1,4 @@
-package me.thiboisweird.server_core.managers;
+package group.test.server_core.managers;
 
 import org.bukkit.entity.Player;
 

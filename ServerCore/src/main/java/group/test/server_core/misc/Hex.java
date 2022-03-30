@@ -1,4 +1,4 @@
-package me.thiboisweird.server_core.misc;
+package group.test.server_core.misc;
 
 import net.md_5.bungee.api.ChatColor;
 

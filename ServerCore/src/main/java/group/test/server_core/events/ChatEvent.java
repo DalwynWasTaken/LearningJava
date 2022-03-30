@@ -1,7 +1,7 @@
-package me.thiboisweird.server_core.events;
+package group.test.server_core.events;
 
-import me.thiboisweird.server_core.managers.StatsManager;
-import me.thiboisweird.server_core.misc.Hex;
+import group.test.server_core.managers.StatsManager;
+import group.test.server_core.misc.Hex;
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

@@ -1,5 +1,6 @@
-package me.thiboisweird.server_core.misc;
-import me.thiboisweird.server_core.Server_core;
+package group.test.server_core.misc;
+
+import group.test.server_core.Server_core;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.OfflinePlayer;

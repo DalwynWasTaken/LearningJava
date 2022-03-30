@@ -1,8 +1,9 @@
-package me.thiboisweird.server_core.commands;
+
+package group.test.server_core.commands;
 
 import me.clip.placeholderapi.PlaceholderAPI;
-import me.thiboisweird.server_core.Server_core;
-import me.thiboisweird.server_core.managers.MinesDataManager;
+import group.test.server_core.Server_core;
+import group.test.server_core.managers.MinesDataManager;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
@@ -13,9 +14,8 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 import org.checkerframework.checker.nullness.qual.NonNull;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
+ import java.io.File;
+ import java.util.*;
 
 public class Mines implements CommandExecutor {
     Plugin plugin = Server_core.getPlugin(Server_core.class);

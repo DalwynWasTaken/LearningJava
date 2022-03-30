@@ -1,0 +1,12 @@
+name: Server_core
+version: '${project.version}'
+main: group.this.server_core.Server_core
+api-version: 1.18
+authors: [ ThiboIsWeird, Dalwyn ]
+description: A framework server core for mining servers
+softdepend: [PlaceholderAPI]
+website: thibofranssen.tk
+commands:
+  mines:
+    description: A mine reset system [WIP]
+    usage: /mines

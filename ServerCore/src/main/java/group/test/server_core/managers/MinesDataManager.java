@@ -1,7 +1,7 @@
-package me.thiboisweird.server_core.managers;
+package group.test.server_core.managers;
 
-import me.thiboisweird.server_core.Server_core;
-import me.thiboisweird.server_core.misc.Cuboid;
+import group.test.server_core.Server_core;
+import group.test.server_core.misc.Cuboid;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -221,4 +221,3 @@ public class MinesDataManager {
         return "!MINE_EXISTS";
     }
 }
-

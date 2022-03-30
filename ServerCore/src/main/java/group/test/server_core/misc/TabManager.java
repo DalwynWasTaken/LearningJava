@@ -1,7 +1,7 @@
-package me.thiboisweird.server_core.misc;
+package group.test.server_core.misc;
 
-import me.thiboisweird.server_core.Server_core;
-import me.thiboisweird.server_core.managers.StatsManager;
+import group.test.server_core.Server_core;
+import group.test.server_core.managers.StatsManager;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

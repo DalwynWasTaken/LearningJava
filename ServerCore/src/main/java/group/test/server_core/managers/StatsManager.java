@@ -1,9 +1,9 @@
-package me.thiboisweird.server_core.managers;
+package group.test.server_core.managers;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;
-import me.thiboisweird.server_core.Server_core;
-import me.thiboisweird.server_core.database.MongoManager;
+import group.test.server_core.Server_core;
+import group.test.server_core.database.MongoManager;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
@@ -88,4 +88,3 @@ public class StatsManager {
         return null;
     }
 }
-

@@ -1,4 +1,4 @@
-package me.thiboisweird.server_core.misc;
+package group.test.server_core.misc;
 
 public class Lag
         implements Runnable

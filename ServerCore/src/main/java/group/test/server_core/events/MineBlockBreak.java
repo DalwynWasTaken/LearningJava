@@ -1,6 +1,6 @@
-package me.thiboisweird.server_core.events;
+package group.test.server_core.events;
 
-import me.thiboisweird.server_core.managers.MinesDataManager;
+import group.test.server_core.managers.MinesDataManager;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;

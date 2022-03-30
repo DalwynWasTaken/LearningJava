@@ -1,12 +1,12 @@
-package me.thiboisweird.server_core.listeners;
+package group.test.server_core.listeners;
 
 import me.clip.placeholderapi.PlaceholderAPI;
-import me.thiboisweird.server_core.Server_core;
-import me.thiboisweird.server_core.database.MongoManager;
-import me.thiboisweird.server_core.managers.CurrencyManager;
-import me.thiboisweird.server_core.managers.StatsManager;
-import me.thiboisweird.server_core.misc.Hex;
-import me.thiboisweird.server_core.misc.TabManager;
+import group.test.server_core.Server_core;
+import group.test.server_core.database.MongoManager;
+import group.test.server_core.managers.CurrencyManager;
+import group.test.server_core.managers.StatsManager;
+import group.test.server_core.misc.Hex;
+import group.test.server_core.misc.TabManager;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

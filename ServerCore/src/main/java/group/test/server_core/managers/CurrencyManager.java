@@ -1,4 +1,4 @@
-package me.thiboisweird.server_core.managers;
+package group.test.server_core.managers;
 
 import org.bson.codecs.pojo.annotations.BsonProperty;
 import org.bson.types.ObjectId;
